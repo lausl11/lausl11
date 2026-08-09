@@ -152,11 +152,6 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 
 ---
 
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=lausl11&theme=tokyonight&row=2&column=4"/>
-
----
 
 # 🐍 Contribution Snake
 
@@ -170,15 +165,15 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="[#](https://www.instagram.com/lau.sl11/)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/laura-laurindo-34613b398/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:lauralaurindo2010@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
