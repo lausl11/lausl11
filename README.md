@@ -103,13 +103,13 @@ HTML • CSS • JavaScript
 
 <td width="33%">
 
-### ⚙ API Express
+### Curso Node.js - Victor Lima 
 
-CRUD utilizando Node.js e Express.
+63 aulas sobre o basico de varias ferramentas 
 
 Tecnologias:
 
-Node.js • Express
+Node.js • Express • sequelize • handlebars • js • MySql 
 
 </td>
 
@@ -121,14 +121,9 @@ Node.js • Express
 # 💻 Objetivos Atuais
 
 ```bash
-$ studying HTML
-$ studying CSS
-$ studying JavaScript
-$ studying Node.js
-$ studying Express
-$ learning APIs
-$ learning Databases
-$ building projects daily
+Continuar a estudas diversas linguagens, começar a puxar os estudos para area desejada na carreira;
+
+Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como aprendiz em T.I em busca de conhecimento e experiencia.
 ```
 
 ---
