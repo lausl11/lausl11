@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:00BFFF&text=LAURA%20LAURINDO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&text=LAURA%20LAURINDO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 # ⚡ JARVIS SYSTEM ONLINE
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Laura+Laurindo;Future+Software+Engineer;Full+Stack+Developer+In+Progress;Node.js+%7C+Express+%7C+JavaScript;Building+My+Digital+Future" />
@@ -173,7 +172,7 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:lauralaurindo2010@gmail.com">
+<a href="lauralaurindo2010@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -183,6 +182,5 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 
 ### ⚡ JARVIS CORE ACTIVE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:8A2BE2,100:00BFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:330000,50:660000,75:990000,100:FF0000"/>
 </div>
