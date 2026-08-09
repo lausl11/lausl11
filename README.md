@@ -1,16 +1,182 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lausl11/lausl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:00BFFF&text=LAURA%20LAURINDO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 
-Here are some ideas to get you started:
+# ⚡ JARVIS SYSTEM ONLINE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Laura+Laurindo;Future+Software+Engineer;Full+Stack+Developer+In+Progress;Node.js+%7C+Express+%7C+JavaScript;Building+My+Digital+Future" />
+
+</div>
+
+---
+
+## 👩‍💻 Sobre Mim
+
+```bash
+> USER IDENTIFIED
+
+Nome............. Laura Laurindo
+Status........... Online
+Formação......... Ensino Médio
+Foco............. Desenvolvimento Web
+Objetivo......... Full Stack Developer
+Localização...... Brasil
+```
+
+Sou estudante e desenvolvedora em formação, atualmente estudando HTML, CSS, JavaScript, Node.js, Express, Git e GitHub.
+
+Tenho interesse em:
+
+- Front-End
+- Back-End
+- APIs REST
+- Banco de Dados
+- UI/UX
+- Inteligência Artificial
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 🛠 Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,nodejs" />
+
+</div>
+
+---
+
+# 📂 Projetos
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🧺 Lavanderia Online
+
+Sistema para gerenciamento de lavanderia.
+
+Tecnologias:
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%">
+
+### ✅ Cadastro de Tarefas
+
+Sistema de cadastro e listagem.
+
+Tecnologias:
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%">
+
+### ⚙ API Express
+
+CRUD utilizando Node.js e Express.
+
+Tecnologias:
+
+Node.js • Express
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Objetivos Atuais
+
+```bash
+$ studying HTML
+$ studying CSS
+$ studying JavaScript
+$ studying Node.js
+$ studying Express
+$ learning APIs
+$ learning Databases
+$ building projects daily
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lausl11&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausl11&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lausl11&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lausl11&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=lausl11&theme=tokyonight&row=2&column=4"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 🌐 Redes Sociais
+
+<a href="https://github.com/lausl11">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+
+### ⚡ JARVIS CORE ACTIVE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:8A2BE2,100:00BFFF"/>
+
+</div>
