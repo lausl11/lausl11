@@ -129,13 +129,6 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lausl11&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausl11&layout=compact&theme=tokyonight"/>
-
-</div>
 
 <div align="center">
 
