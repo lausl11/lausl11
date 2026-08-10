@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&text=LAURA%20LAURINDO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 # ⚡ JARVIS SYSTEM ONLINE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Laura+Laurindo;Future+Software+Engineer;Full+Stack+Developer+In+Progress;Node.js+%7C+Express+%7C+JavaScript;Building+My+Digital+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Laura+Laurindo;Future+Software+Engineer;Full+Stack+Developer+In+Progress;Node.js+%7C+Express+%7C+JavaScript;Building+My+Digital+Future" />
 
 </div>
 
@@ -169,5 +169,5 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 
 ### ⚡ JARVIS CORE ACTIVE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:330000,50:660000,75:990000,100:FF0000"/>
+<img src="https://capsule-render.vercel.app/api?&type=waving&height=120&section=footer&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&width=100%" style="width: 100%; display: block;"/>
 </div>
