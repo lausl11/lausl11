@@ -19,7 +19,7 @@ Status........... Online
 Formação......... 2° ano Ensino Médio - Desenvolvimento de Sitemas 
 Foco............. Desenvolvimento Web
 Objetivo......... Full Stack Developer
-Localização...... Brasil
+Localização...... Curitiba - PR, BRASIL
 ```
 
 Sou estudante e desenvolvedora em formação, atualmente estudando HTML, CSS, JavaScript, Node.js, Express, Git e GitHub.
