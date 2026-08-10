@@ -152,12 +152,6 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 ---
 
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
 # 🌐 Redes Sociais
 
 <a href="https://github.com/lausl11">
