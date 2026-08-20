@@ -138,11 +138,6 @@ Tenho como objetivo tambem conseguir ingressar no mercado de trabalho como apren
 
 ---
 
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lausl11&theme=tokyo-night"/>
-
----
 
 
 # 🌐 Redes Sociais
