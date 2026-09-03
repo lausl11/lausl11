@@ -30,7 +30,7 @@ Tenho interesse em:
 - Back-End
 - APIs REST
 - Banco de Dados
-- UI/UX
+- UI/UX 
 - Inteligência Artificial
 
 ---
